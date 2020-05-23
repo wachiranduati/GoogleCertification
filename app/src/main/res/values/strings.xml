@@ -1,0 +1,4 @@
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="app_name">GoogleCertification</string>
+    <string name="fruit"><xliff:g>Nduati\'s</xliff:g> Banana</string>
+</resources>
